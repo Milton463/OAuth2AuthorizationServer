@@ -1,0 +1,6 @@
+com/milton/auth2/service/UserService.class
+com/milton/auth2/controller/UserResourceController.class
+com/milton/auth2/model/AppClientDetail.class
+com/milton/auth2/service/UserServiceImpl.class
+com/milton/auth2/Oauth2AuthorizationServerApplication.class
+com/milton/auth2/config/AuthResourceServerConfig.class
